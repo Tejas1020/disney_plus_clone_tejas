@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "353811038159",
+    "project_id": "disney-plus-tejas",
+    "storage_bucket": "disney-plus-tejas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353811038159:android:3ceb087f1b309f437f5cba",
+        "android_client_info": {
+          "package_name": "com.example.disney_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353811038159-8oo8phtoch7cfovhl828kvssp2uji0o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWWKNJhjyrIgvIkTCvFU2lSDEks1zAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353811038159-8oo8phtoch7cfovhl828kvssp2uji0o0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353811038159-fjs4k2em7o50l4avdscc17a2knpgioab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.disneyPlus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353811038159:android:7e4c087031522f017f5cba",
+        "android_client_info": {
+          "package_name": "com.example.disney_plus_clone_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353811038159-8oo8phtoch7cfovhl828kvssp2uji0o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATWWKNJhjyrIgvIkTCvFU2lSDEks1zAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353811038159-8oo8phtoch7cfovhl828kvssp2uji0o0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353811038159-fjs4k2em7o50l4avdscc17a2knpgioab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.disneyPlus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
